@@ -8,6 +8,8 @@ This repository is for showing how Git and GitHub work
 
 More text in the master branch
 
+more changes here
+
 This is an example
 
 ## deployment
