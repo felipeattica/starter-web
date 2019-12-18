@@ -14,6 +14,8 @@ This is an example
 
 ## deployment
 
+after stashing
+
 Yes
 
 As stated above 
