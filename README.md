@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+More text in the master branch
+
 This is an example
 
 ## deployment
